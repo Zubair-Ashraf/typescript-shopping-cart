@@ -6,7 +6,7 @@ export interface IAppProps {
 const App = (props: IAppProps) => {
   return (
     <div>
-      Hello Typo
+      Hello Typescript
     </div>
   );
 }
